@@ -1,6 +1,7 @@
 # fatigue_driving
 </br>
 ## 研究内容
+</br>
 fatigue driving dynamic detection based on spatio-temporal trajectory of GPS；</br>基于GPS时空轨迹的疲劳驾驶动态识别；  
 </br>
 ---
