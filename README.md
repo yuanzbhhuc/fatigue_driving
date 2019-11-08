@@ -6,6 +6,4 @@ fatigue driving dynamic detection based on spatio-temporal trajectory of GPS；<
 ## **适用范围**
 该项目既可以用于基于时空轨迹的疲劳驾驶动态识别，给定的样本数据也可以作为机器学习的训练项目。<br>
 ## **相关作者**
-*yuanzbhuc*
-
-
+*yuanzbhhuc*
